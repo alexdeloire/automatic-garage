@@ -1,0 +1,4 @@
+IdCar_1:1,
+Plaque_1:AA725AD,
+DateEnt_1:2023-01-14,
+Temps_1:10h2min2s,
