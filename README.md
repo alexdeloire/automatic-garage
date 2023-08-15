@@ -69,7 +69,7 @@ This project requires a Raspberry Pi and the following sensors:
 - LED (7)
 - Motor (8)
 
-|  | Sensors |  |
+|  |  |  |
 | :---: | :---: | :---: |
 | ![Image 1](images/ecran.png) | ![Image 2](images/bouton.png) | ![Image 3](images/camera.png) |
 | 1 | 2 | 3 |
