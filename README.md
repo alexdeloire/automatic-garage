@@ -70,35 +70,35 @@ This project requires a Raspberry Pi and the following sensors:
 - Motor (8)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center">
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/ecran.png" alt="ecran">
     <p>1</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/bouton.png" alt="bouton">
     <p>2</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/camera.png" alt="camera" style="width: 100%;">
     <p>3</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/lumiere.png" alt="lumiere">
     <p>4</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/ultrason.png" alt="ultrason">
     <p>5</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/buzzer.png" alt="buzzer">
     <p>6</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/led.png" alt="led">
     <p>7</p>
   </div>
-  <div style="flex: 30%; padding: 5px; text-align: center; max-width: 100px">
+  <div style="flex: 30%; padding: 5px; text-align: center;">
     <img src="images/moteur.png" alt="moteur">
     <p>8</p>
   </div>
