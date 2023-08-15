@@ -70,7 +70,7 @@ This project requires a Raspberry Pi and the following sensors:
 - Motor (8)
 
 <div style="display: flex; flex-wrap: wrap; align-items: center">
-  <div style="flex: 30%; padding: 5px; text-align: center;">
+  <div style="flex: 30%; padding: 5px; text-align: center;" width="10">
     <img src="images/ecran.png" alt="ecran">
     <p>1</p>
   </div>
