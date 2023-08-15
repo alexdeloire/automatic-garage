@@ -69,40 +69,14 @@ This project requires a Raspberry Pi and the following sensors:
 - LED (7)
 - Motor (8)
 
-<div style="display: flex; flex-wrap: wrap; align-items: center">
-  <div style="flex: 30%; padding: 5px; text-align: center;" width="10">
-    <img src="images/ecran.png" alt="ecran">
-    <p>1</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/bouton.png" alt="bouton">
-    <p>2</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/camera.png" alt="camera" style="width: 100%;">
-    <p>3</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/lumiere.png" alt="lumiere">
-    <p>4</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/ultrason.png" alt="ultrason">
-    <p>5</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/buzzer.png" alt="buzzer">
-    <p>6</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/led.png" alt="led">
-    <p>7</p>
-  </div>
-  <div style="flex: 30%; padding: 5px; text-align: center;">
-    <img src="images/moteur.png" alt="moteur">
-    <p>8</p>
-  </div>
-</div>
+|  | Sensors |  |
+| :---: | :---: | :---: |
+| ![Image 1](images/ecran.png) | ![Image 2](images/bouton.png) | ![Image 3](images/camera.png) |
+| 1 | 2 | 3 |
+| ![Image 4](images/lumiere.png) | ![Image 5](images/ultrason.png) | ![Image 6](images/buzzer.png) |
+| 4 | 5 | 6 |
+| ![Image 7](images/led.png) | ![Image 8](images/moteur.png) |  |
+| 7 | 8 |  |
 
 
 This project is coded in Python.
