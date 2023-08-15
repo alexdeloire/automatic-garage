@@ -1,0 +1,6 @@
+pytesseract
+RPi.GPIO
+smbus
+grovepi
+picamera
+Pillow
