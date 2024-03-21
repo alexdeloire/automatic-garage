@@ -334,4 +334,4 @@ Git est utilisé pour le contrôle des versions. Le projet a été réalisé en 
 ## Historique
 <sup>[(Retour en haut)](#table-des-matières)</sup>
 
-Les différentes itérations de sprint du projet sont disponibles dans ce [dépôt](https://github.com/alexdeloire/automatic_garage).
+Les différentes itérations de sprint du projet sont disponibles dans ce [dépôt](https://github.com/alexdeloire/automatic-garage).

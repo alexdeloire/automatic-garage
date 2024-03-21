@@ -283,4 +283,4 @@ Git is used for version control. The project was carried out in sprint iteration
 ## History
 <sup>[(Back to top)](#table-of-contents)</sup>
 
-The different sprint iterations of the project are available in this [repository](https://github.com/alexdeloire/automatic_garage).
+The different sprint iterations of the project are available in this [repository](https://github.com/alexdeloire/automatic-garage).
